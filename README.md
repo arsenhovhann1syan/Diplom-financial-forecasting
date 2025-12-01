@@ -49,10 +49,11 @@
 ## Օգտագործվող տեխնոլոգիաներ
 - **Python**՝ հիմնական ծրագրավորման լեզու  
 - **Տվյալների մշակում**՝ pandas, NumPy  
-- **Machine Learning**՝ scikit-learn, XGBoost, RandomForest  
-- **Deep Learning**՝ TensorFlow կամ PyTorch (RNN / LSTM)  
+- **Վիճակագրական մոդելներ**՝ ARIMA, GARCH  
+- **Machine Learning մոդելներ**՝ Random Forest, XGBoost  
+- **Deep Learning մոդելներ**՝ LSTM, RNN (օգտագործելով TensorFlow կամ PyTorch)  
 - **Տվյալների վիզուալիզացիա**՝ matplotlib, seaborn  
-- **API ինտեգրում**՝ ccxt կամ yfinance  
+- **API ինտեգրում**՝ ccxt կամ yfinance
 
 > Այս տեխնոլոգիաները թույլ կտան հավաքել, մաքրել և վերլուծել ֆինանսական տվյալները, ստեղծել նոր հատկանիշներ, ուսուցանել մոդելներ և վիզուալացնել արդյունքները։
 
